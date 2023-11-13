@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "856002620487",
+    "project_id": "meatshop-d9344",
+    "storage_bucket": "meatshop-d9344.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856002620487:android:1afdcc33c63267e80e1562",
+        "android_client_info": {
+          "package_name": "com.example.meat_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHAV-0cd-_mD2Fr5CwmEU3F_zlUSq7Gls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
